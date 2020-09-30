@@ -1,0 +1,38 @@
+[
+	{
+		"name":"ipon 4",
+		"price":1000000,
+		"image":"https://cdn.pixabay.com/photo/2013/07/13/12/46/iphone-160307__340.png",
+		"seller":{
+			"name":"uvuvwevwevwe",
+			"location":"Tangerang"
+		}
+	},
+	{
+		"name":"samsang milky way",
+		"price":2000000,
+		"image":"https://media.istockphoto.com/photos/samsung-galaxy-s20-ultra-smartphone-is-displayed-for-editorial-picture-id1207036391?b=1&k=6&m=1207036391&s=170667a&w=0&h=fhqGtFXK1zYSrs5U1RjKIKJLUxspSZROGKzCl2ULHhw=",
+		"seller":{
+			"name":"datboi",
+			"location":"Di Rumah"
+		}
+	},
+	{
+		"name":"xiaomi KW 100",
+		"price":200000,
+		"image":"https://cdn.pixabay.com/photo/2020/03/09/08/44/redmi-note-8-4914990__340.png",
+		"seller":{
+			"name":"yeahboi",
+			"location":"Di Kali"
+		}
+	},
+	{
+		"name":"speedy speed boy",
+		"price":200000,
+		"image":"https://cdn.pixabay.com/photo/2012/05/07/11/42/snail-48182__340.png",
+		"seller":{
+			"name":"takumi",
+			"location":"japun"
+		}
+	}
+]
